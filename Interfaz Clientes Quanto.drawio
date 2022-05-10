@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T18:30:06.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="okV9-2hz_OwQRSM93ScP" version="18.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-05-10T18:41:25.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="_rgQ8-g_zAUH7I8If-Gk" version="18.0.2" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Proveedores">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,6 +117,20 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="vckQRlZOT4gb2t8_PB4V" name="Procesos Proveedores">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mVds2fESVUAVduSlUKf5-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&lt;b style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;Obtener listado Vendors de Netsuite&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; line-height: 0.4;&quot;&gt;&lt;b&gt;Filtros&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Subsidiaria&lt;br&gt;+ Categoría Flujo: Cañero&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;Ultima modificación: mayor a ayer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Ultima modificación: diferente web service&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mVds2fESVUAVduSlUKf5-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;i&gt;Validaciones Quanto&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Si es persona: campo Nombre no vacío&lt;/p&gt;&amp;nbsp;+ Si es persona:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Apellido Paterno no vacío&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Si es persona: CURP No vacío&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ RFC No vacío&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="280" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Propietarios" id="M6fxH0xZ7ipreypIzGpW">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,6 +245,20 @@
         </mxCell>
         <mxCell id="milZNHxoll340uPRYxce-25" value="Actualizar Propietario en Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
           <mxGeometry x="480" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Procesos Propietarios" id="6OIvLh_6Cwb6DcuTqFwn">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="IJ7Q5Fs0c57BnaZbYQBP-0" />
+        <mxCell id="IJ7Q5Fs0c57BnaZbYQBP-1" parent="IJ7Q5Fs0c57BnaZbYQBP-0" />
+        <mxCell id="IJ7Q5Fs0c57BnaZbYQBP-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&lt;b style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;Obtener listado Propietarios de Netsuite&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; line-height: 0.4;&quot;&gt;&lt;b&gt;Filtros&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Subsidiaria&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;Ultima modificación: mayor a ayer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="IJ7Q5Fs0c57BnaZbYQBP-1">
+          <mxGeometry x="40" y="80" width="280" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="IJ7Q5Fs0c57BnaZbYQBP-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;i&gt;Validaciones Quanto&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Si es persona: campo Nombre no vacío&lt;/p&gt;&amp;nbsp;+ Si es persona:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Apellido Paterno no vacío&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Si es persona: CURP No vacío&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ RFC No vacío&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="IJ7Q5Fs0c57BnaZbYQBP-1">
+          <mxGeometry x="40" y="220" width="280" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
