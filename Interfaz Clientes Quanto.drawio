@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-10T18:41:25.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="_rgQ8-g_zAUH7I8If-Gk" version="18.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-11T17:02:11.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="unoNPw3IVj4A6iUaU4dL" version="18.0.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Proveedores">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -36,36 +36,32 @@
             <mxPoint x="219.76" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="73TV6iHlt1H4T8bq38gE-8" value="¿Registro Valido?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="325" y="460" width="110" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8i7YBGXeEPI2o6rSo6hC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="73TV6iHlt1H4T8bq38gE-27" target="8i7YBGXeEPI2o6rSo6hC-22">
+        <mxCell id="8i7YBGXeEPI2o6rSo6hC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="73TV6iHlt1H4T8bq38gE-27" target="8i7YBGXeEPI2o6rSo6hC-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="73TV6iHlt1H4T8bq38gE-27" value="Actualizar Cliente Quanto" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="710" width="120" height="40" as="geometry" />
+          <mxGeometry x="325" y="980" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="73TV6iHlt1H4T8bq38gE-28" value="¿Existe Registro en Quanto?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="325" y="590" width="110" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="73TV6iHlt1H4T8bq38gE-29" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+        <mxCell id="73TV6iHlt1H4T8bq38gE-29" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.45;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="73TV6iHlt1H4T8bq38gE-27">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="379.5799999999999" y="670" as="sourcePoint" />
-            <mxPoint x="379.5799999999999" y="710" as="targetPoint" />
+            <mxPoint x="379.49999999999994" y="920" as="sourcePoint" />
+            <mxPoint x="379.49999999999994" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8i7YBGXeEPI2o6rSo6hC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="73TV6iHlt1H4T8bq38gE-33" target="8i7YBGXeEPI2o6rSo6hC-22">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8i7YBGXeEPI2o6rSo6hC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="73TV6iHlt1H4T8bq38gE-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="980" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="73TV6iHlt1H4T8bq38gE-33" value="Alta de Cliente Quanto" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="480" y="610" width="120" height="40" as="geometry" />
+          <mxGeometry x="485" y="910" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="73TV6iHlt1H4T8bq38gE-34" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="435" y="629.5799999999999" as="sourcePoint" />
-            <mxPoint x="480" y="629.5799999999999" as="targetPoint" />
+            <mxPoint x="440" y="969.5799999999999" as="sourcePoint" />
+            <mxPoint x="485" y="969.5799999999999" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -75,44 +71,111 @@
         <mxCell id="73TV6iHlt1H4T8bq38gE-39" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="500" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8i7YBGXeEPI2o6rSo6hC-5" value="Leer Listado Vendors de Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8i7YBGXeEPI2o6rSo6hC-5" value="Leer Listado Vendors de Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="270" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8i7YBGXeEPI2o6rSo6hC-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8i7YBGXeEPI2o6rSo6hC-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="219.5" y="320" as="sourcePoint" />
             <mxPoint x="219.5" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8i7YBGXeEPI2o6rSo6hC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8i7YBGXeEPI2o6rSo6hC-8" target="73TV6iHlt1H4T8bq38gE-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="8i7YBGXeEPI2o6rSo6hC-8" value="Validar Listado Vendors de Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="385" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8i7YBGXeEPI2o6rSo6hC-12" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="379.5" y="590" as="targetPoint" />
-            <mxPoint x="379.5" y="540" as="sourcePoint" />
+        <mxCell id="8i7YBGXeEPI2o6rSo6hC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8i7YBGXeEPI2o6rSo6hC-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8i7YBGXeEPI2o6rSo6hC-20" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8i7YBGXeEPI2o6rSo6hC-8" value="Validar Listado Vendors de Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="385" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8i7YBGXeEPI2o6rSo6hC-12" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="435" y="499.5799999999999" as="sourcePoint" />
-            <mxPoint x="620" y="500" as="targetPoint" />
+            <mxPoint x="380" y="840" as="targetPoint" />
+            <mxPoint x="294.5" y="769" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="590" y="500" />
-              <mxPoint x="590" y="500" />
+              <mxPoint x="295" y="800" />
+              <mxPoint x="380" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8i7YBGXeEPI2o6rSo6hC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8i7YBGXeEPI2o6rSo6hC-22" target="8i7YBGXeEPI2o6rSo6hC-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8i7YBGXeEPI2o6rSo6hC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8i7YBGXeEPI2o6rSo6hC-22" target="8i7YBGXeEPI2o6rSo6hC-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="1000" />
+              <mxPoint x="630" y="295" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="8i7YBGXeEPI2o6rSo6hC-22" value="Actualizar Vendor en Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="710" width="120" height="40" as="geometry" />
+        <mxCell id="8i7YBGXeEPI2o6rSo6hC-22" value="Actualizar Vendor en Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="485" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KrTA9UWN0bjfUkggHSiw-0" value="¿RFC Valido?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="470" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KrTA9UWN0bjfUkggHSiw-1" value="¿Es Persona&lt;br&gt;?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="325" y="600" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KrTA9UWN0bjfUkggHSiw-2" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="380" y="600.42" as="targetPoint" />
+            <mxPoint x="380" y="550.42" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KrTA9UWN0bjfUkggHSiw-3" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="435.5" y="509.9999999999999" as="sourcePoint" />
+            <mxPoint x="630" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590.5" y="510.41999999999996" />
+              <mxPoint x="590.5" y="510.41999999999996" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KrTA9UWN0bjfUkggHSiw-4" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="KrTA9UWN0bjfUkggHSiw-10">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="300" y="690" as="targetPoint" />
+            <mxPoint x="320" y="640" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="295" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KrTA9UWN0bjfUkggHSiw-9" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KrTA9UWN0bjfUkggHSiw-1" target="73TV6iHlt1H4T8bq38gE-28">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="460" y="690" as="targetPoint" />
+            <mxPoint x="480" y="640" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KrTA9UWN0bjfUkggHSiw-10" value="¿Tiene CURP, Nombre y Apellido Paterno?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="689" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="73TV6iHlt1H4T8bq38gE-28" value="¿Existe Registro en Quanto(RFC)?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="325" y="840" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KrTA9UWN0bjfUkggHSiw-12" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="435" y="879.4999999999999" as="sourcePoint" />
+            <mxPoint x="545" y="910" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KrTA9UWN0bjfUkggHSiw-15" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KrTA9UWN0bjfUkggHSiw-10">
+          <mxGeometry y="20" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="160" y="790" as="sourcePoint" />
+            <mxPoint x="630" y="1000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="729" />
+              <mxPoint x="220" y="1040" />
+              <mxPoint x="630" y="1040" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -132,68 +195,68 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Propietarios" id="M6fxH0xZ7ipreypIzGpW">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="milZNHxoll340uPRYxce-0" />
         <mxCell id="milZNHxoll340uPRYxce-1" parent="milZNHxoll340uPRYxce-0" />
-        <mxCell id="milZNHxoll340uPRYxce-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="milZNHxoll340uPRYxce-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="120" as="sourcePoint" />
             <mxPoint x="220" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-3" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-3" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="milZNHxoll340uPRYxce-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="219.5" y="500" as="targetPoint" />
             <mxPoint x="219.5" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-4" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-4" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="milZNHxoll340uPRYxce-1" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="320" y="410" as="targetPoint" />
             <mxPoint x="270" y="410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-5" value="Fin Propietarios?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-5" value="Fin Propietarios?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="170" y="370" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-6" value="Obtener Listado &lt;b&gt;Propietarios&amp;nbsp;&lt;/b&gt;de Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-6" value="Obtener Listado &lt;b&gt;Propietarios&amp;nbsp;&lt;/b&gt;de Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="160" y="170" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-7" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="milZNHxoll340uPRYxce-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="219.76" y="220" as="sourcePoint" />
             <mxPoint x="219.76" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-8" value="¿Registro Valido?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-8" value="¿Registro Valido?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="325" y="460" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="milZNHxoll340uPRYxce-1" source="milZNHxoll340uPRYxce-10" target="milZNHxoll340uPRYxce-25">
+        <mxCell id="milZNHxoll340uPRYxce-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="milZNHxoll340uPRYxce-1" source="milZNHxoll340uPRYxce-10" target="milZNHxoll340uPRYxce-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-10" value="Actualizar Cliente Quanto" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-10" value="Actualizar Cliente Quanto" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="320" y="710" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-11" value="¿Existe Registro en Quanto?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-11" value="¿Existe Registro en Quanto?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="325" y="590" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-12" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-12" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="milZNHxoll340uPRYxce-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="379.5799999999999" y="670" as="sourcePoint" />
             <mxPoint x="379.5799999999999" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="milZNHxoll340uPRYxce-1" source="milZNHxoll340uPRYxce-14" target="milZNHxoll340uPRYxce-25">
+        <mxCell id="milZNHxoll340uPRYxce-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="milZNHxoll340uPRYxce-1" source="milZNHxoll340uPRYxce-14" target="milZNHxoll340uPRYxce-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-14" value="Alta de Cliente Quanto" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-14" value="Alta de Cliente Quanto" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="480" y="610" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-15" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-15" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="milZNHxoll340uPRYxce-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="435" y="629.5799999999999" as="sourcePoint" />
@@ -201,35 +264,35 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-16" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-16" value="Inicio" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="170" y="80" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-17" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-17" value="Fin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="170" y="500" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-18" value="Leer Listado Propietarios de Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-18" value="Leer Listado Propietarios de Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="160" y="270" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-19" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-19" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="milZNHxoll340uPRYxce-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="219.5" y="320" as="sourcePoint" />
             <mxPoint x="219.5" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="milZNHxoll340uPRYxce-1" source="milZNHxoll340uPRYxce-21" target="milZNHxoll340uPRYxce-8">
+        <mxCell id="milZNHxoll340uPRYxce-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" parent="milZNHxoll340uPRYxce-1" source="milZNHxoll340uPRYxce-21" target="milZNHxoll340uPRYxce-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-21" value="Validar Listado Propietarios de Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-21" value="Validar Listado Propietarios de Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="320" y="385" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-22" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-22" value="SI" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="milZNHxoll340uPRYxce-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="379.5" y="590" as="targetPoint" />
             <mxPoint x="379.5" y="540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-23" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-23" value="NO" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="milZNHxoll340uPRYxce-1" edge="1">
           <mxGeometry y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="435" y="499.5799999999999" as="sourcePoint" />
@@ -240,24 +303,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="milZNHxoll340uPRYxce-1" source="milZNHxoll340uPRYxce-25" target="milZNHxoll340uPRYxce-18">
+        <mxCell id="milZNHxoll340uPRYxce-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" parent="milZNHxoll340uPRYxce-1" source="milZNHxoll340uPRYxce-25" target="milZNHxoll340uPRYxce-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="milZNHxoll340uPRYxce-25" value="Actualizar Propietario en Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="milZNHxoll340uPRYxce-1">
+        <mxCell id="milZNHxoll340uPRYxce-25" value="Actualizar Propietario en Netsuite" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="milZNHxoll340uPRYxce-1" vertex="1">
           <mxGeometry x="480" y="710" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Procesos Propietarios" id="6OIvLh_6Cwb6DcuTqFwn">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="IJ7Q5Fs0c57BnaZbYQBP-0" />
         <mxCell id="IJ7Q5Fs0c57BnaZbYQBP-1" parent="IJ7Q5Fs0c57BnaZbYQBP-0" />
-        <mxCell id="IJ7Q5Fs0c57BnaZbYQBP-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&lt;b style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;Obtener listado Propietarios de Netsuite&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; line-height: 0.4;&quot;&gt;&lt;b&gt;Filtros&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Subsidiaria&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;Ultima modificación: mayor a ayer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="IJ7Q5Fs0c57BnaZbYQBP-1">
+        <mxCell id="IJ7Q5Fs0c57BnaZbYQBP-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&lt;b style=&quot;background-color: rgb(247, 247, 247);&quot;&gt;Obtener listado Propietarios de Netsuite&lt;/b&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; line-height: 0.4;&quot;&gt;&lt;b&gt;Filtros&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Subsidiaria&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;Ultima modificación: mayor a ayer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="IJ7Q5Fs0c57BnaZbYQBP-1" vertex="1">
           <mxGeometry x="40" y="80" width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="IJ7Q5Fs0c57BnaZbYQBP-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;i&gt;Validaciones Quanto&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Si es persona: campo Nombre no vacío&lt;/p&gt;&amp;nbsp;+ Si es persona:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Apellido Paterno no vacío&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Si es persona: CURP No vacío&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ RFC No vacío&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="IJ7Q5Fs0c57BnaZbYQBP-1">
+        <mxCell id="IJ7Q5Fs0c57BnaZbYQBP-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;i&gt;Validaciones Quanto&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Si es persona: campo Nombre no vacío&lt;/p&gt;&amp;nbsp;+ Si es persona:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Apellido Paterno no vacío&lt;br&gt;&lt;/span&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Si es persona: CURP No vacío&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ RFC No vacío&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="IJ7Q5Fs0c57BnaZbYQBP-1" vertex="1">
           <mxGeometry x="40" y="220" width="280" height="110" as="geometry" />
         </mxCell>
       </root>
